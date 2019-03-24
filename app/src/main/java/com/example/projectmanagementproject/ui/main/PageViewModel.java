@@ -58,21 +58,21 @@ public class PageViewModel extends ViewModel {
         String schedule_string = "" +//Line below is "Saturday March 23" in bold unicode
                 "      \uD835\uDC12\uD835\uDC1A\uD835\uDC2D\uD835\uDC2E\uD835\uDC2B\uD835\uDC1D\uD835\uDC1A\uD835\uDC32 \uD835\uDC0C\uD835\uDC1A\uD835\uDC2B\uD835\uDC1C\uD835\uDC21 \uD835\uDFD0\uD835\uDFD1\n" +
                 "      10:00 | Starting Keynote\n" +
-                "      11:00 | Event A\n" +
-                "      12:00 | Event B\n" +
-                "      1:00 | Event C\n" +
-                "      2:00 | Event D\n" +
-                "      3:00 | Event E\n" +
-                "      4:00 | Event F\n" +
+                "      11:00 | Salary Negotiation Workshop\n" +
+                "      12:00 | Networking Lunch\n" +
+                "      1:00 | \"Sexism in the Workplace\"\n" +
+                "      2:00 | \"Machine Learning is the Future\"\n" +
+                "      3:00 | \"Privacy in 2019\"\n" +
+                "      4:00 | \"Supercomputing 101\"\n" +
                 "      5:00 | Ending Keynote\n\n" +//Line below is "Sunday March 24" in bold unicode
                 "      \uD835\uDC12\uD835\uDC2E\uD835\uDC27\uD835\uDC1D\uD835\uDC1A\uD835\uDC32 \uD835\uDC0C\uD835\uDC1A\uD835\uDC2B\uD835\uDC1C\uD835\uDC21 \uD835\uDFD0\uD835\uDFD2\n" +
                 "      10:00 | Starting Keynote\n" +
-                "      11:00 | Event G\n" +
-                "      12:00 | Event H\n" +
-                "      1:00 | Event I\n" +
-                "      2:00 | Event J\n" +
-                "      3:00 | Event K\n" +
-                "      4:00 | Event L\n" +
+                "      11:00 | \"Cookies, Coffee and You\"\n" +
+                "      12:00 | Networking Lunch\n" +
+                "      1:00 | Intro to Big Data Workshop\n" +
+                "      2:00 | \"IOT is a Bad Idea\"\n" +
+                "      3:00 | Salary Negotiation Workshop\n" +
+                "      4:00 | \"Location Services Don't Believe in Off Buttons\"\n" +
                 "      5:00 | Ending Keynote\n";
 
         return schedule_string;
